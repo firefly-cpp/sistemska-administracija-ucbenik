@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Fister, Jr."
+  given-names: "Iztok"
+  orcid: "https://orcid.org/0000-0002-6418-1272"
+- family-names: "Fister"
+  given-names: "Iztok"
+  orcid: "https://orcid.org/0000-0002-9964-6957"
+title: "Sistemska administracija v Linuxu"
+version: 1.0
+doi: 10.18690/um.feri.11.2023
+date-released: 2023-10-11
+url: "https://doi.org/10.18690/um.feri.11.2023"
+preferred-citation:
+  type: book
+  authors:
+  - family-names: "Fister Jr."
+    given-names: "Iztok"
+    orcid: "https://orcid.org/0000-0002-6418-1272"
+  - family-names: "Fister"
+    given-names: "Iztok"
+    orcid: "https://orcid.org/0000-0002-9964-6957"
+  doi: "10.18690/um.feri.11.2023"
+  title: "Sistemska administracija v Linuxu"
+  year: 2023
